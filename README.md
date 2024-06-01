@@ -1,7 +1,7 @@
 #!/shebang/bash/bin/bash --src;
 
 $s = w;
-$s = 0;
+$w = 0;
 
 $f = num2;
 num2 = 1;
