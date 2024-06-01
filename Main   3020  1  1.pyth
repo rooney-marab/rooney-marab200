@@ -1,0 +1,59 @@
+from Ajax_CC import as Ajax **ajax
+from Ajax_CC import as Ajax;
+
+__Main__(3020, 1, 1);
+
+#!/shebang/bin/python/pyth --Src
+
+    k = 0;
+    j = 1;
+    m  255;
+    
+    u = "H\ello world, there is a snake in my boote , thee crazty fox jumped over the fence ";
+    
+        for x in range(len(u)):
+        
+            u[x];
+            k++;
+        
+            print(j + u[x]);
+
+        for x in range(len(k)):
+
+            k[x];
+
+            print(m * k[x]);
+
+def __Main__ (u, x, result):
+    
+        l_value = 6550;
+        
+        u == u;
+
+        l_value == u;
+        
+        result = 1;
+        x = 1;
+            
+        print(u, x);
+
+    return (result + u + l_value);
+
+def __Ajax__ (result, l_value):
+
+    l_value == 128;
+    result  == 200;
+
+    print(result + l_value);
+print("Press any key to continue . . . please press ESC-C ");
+
+    return 0;
+
+def __help__ (x, u):
+
+    x == 30990;
+
+    print(x);
+    
+    return x;
+
